@@ -1,4 +1,4 @@
-package Authorization;
+package com.example.authorizationservice.Model;
 
 import java.util.Objects;
 
